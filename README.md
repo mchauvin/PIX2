@@ -29,8 +29,13 @@ pour ensuite transmettre la date,l'heure et eventuellement l'identite de la pers
 ![alt tag](https://raw.githubusercontent.com/mchauvin/PIX2/master/Dessin1.jpg)
 4.Description materiel
 4.1. Schema Gadgeteer et electronique de l'objet
-4.2. Liste des elements �h pour le fabriquer
+
+4.2. Liste des elements a acheter pour le fabriquer
+
 5.Programmation
+
 5.1.Description de la demonstration
+
 5.2 Liste des fichiers
+
 5.3 Diagramme de classes
