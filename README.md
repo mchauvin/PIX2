@@ -24,9 +24,9 @@ Un capteur serait pr�sent sur(ou � l'interieur de ) la serrure et r�agirai
 pour ensuite transmettre la date,l'heure et eventuellement l'identit� de la personne ayant ouvert
 
 3.1 Cas d'utilisation
-![alt tag](https://github.com/mchauvin/PIX2/blob/master/Dessin3.jpg)
+![alt tag](https://raw.githubusercontent.com/mchauvin/PIX2/master/Dessin3.jpg)
 3.2Diagramme �tats-transitions
-![alt tag](https://github.com/mchauvin/PIX2/blob/master/Dessin1.jpg)
+![alt tag](https://raw.githubusercontent.com/mchauvin/PIX2/master/Dessin1.jpg)
 4.Description mat�riel
 4.1. Sch�ma Gadgeteer et �l�ctronique de l'objet
 4.2. Liste des �l�ments � acheter pour le fabriquer
