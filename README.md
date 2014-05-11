@@ -1,7 +1,7 @@
 Serrure liee internet
 
 1.Croquis
-http://image.made-in-china.com/2f0j00ECoTBQmYsMit/-Serrure-lectronique-de-carte-puce-en-ligne-.jpg
+![alt tag](https://raw.githubusercontent.com/mchauvin/PIX2/master/sch%C3%A9ma.jpg)
 
 2.Cahier des charges
 Serrure de dimension normale
@@ -29,7 +29,7 @@ pour ensuite transmettre la date,l'heure et eventuellement l'identite de la pers
 ![alt tag](https://raw.githubusercontent.com/mchauvin/PIX2/master/Dessin1.jpg)
 4.Description materiel
 4.1. Schema Gadgeteer et electronique de l'objet
-
+![alt tag](https://raw.githubusercontent.com/mchauvin/PIX2/master/gadgeteer.jpg)
 4.2. Liste des elements a acheter pour le fabriquer
 
 5.Programmation
