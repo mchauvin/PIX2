@@ -1,4 +1,4 @@
-Serrure liee internet
+Serrure liee a internet
 
 1.Croquis
 ![alt tag](https://raw.githubusercontent.com/mchauvin/PIX2/master/sch%C3%A9ma.jpg)
